@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">我的软件</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">菜单</string>
+    <string name="title">标题</string>
+    <string name="save">保存</string>
+    <string name="contents">内容</string>
+</resources>
